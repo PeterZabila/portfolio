@@ -2,9 +2,9 @@ import "./portfolio.css";
 
 const Portfolio =() => {
     return (
-        <div>
+        <section id="portfolio"> 
             About
-        </div>
+        </section>
     )
 }
 
