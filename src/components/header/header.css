@@ -55,7 +55,7 @@ header {
     font-size: 0.9rem;
 }
 
-@media screen and (max-width: 1024) {
+@media screen and (max-width: 1024px) {
     header {
         height: 68vh;
     }
