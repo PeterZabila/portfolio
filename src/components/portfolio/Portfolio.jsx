@@ -17,41 +17,34 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: "Title",
-        github: "https://github.com",
-        demo: "https://github.com"
+        title: "IceCream-Galaxy",
+        github: "https://github.com/PeterZabila/IceCream-Galaxy",
+        demo: "https://isiayer.github.io/icecream-galaxy/"
     },
     {
         id: 2,
         image: IMG2,
-        title: "Title",
-        github: "https://github.com",
-        demo: "https://github.com"
+        title: "Filmoteka",
+        github: "https://github.com/PeterZabila/filmoteka",
+        demo: "https://peterzabila.github.io/filmoteka/"
     },
     {
         id: 3,
         image: IMG3,
-        title: "Title",
-        github: "https://github.com",
-        demo: "https://github.com"
+        title: "PETLY",
+        github: "https://github.com/PeterZabila/petly-team-project",
+        demo: "https://blackinhub.github.io/petly-team-project-client/"
     },
     {
         id: 4,
         image: IMG4,
-        title: "Title",
-        github: "https://github.com",
-        demo: "https://github.com"
+        title: "Portfolio",
+        github: "https://github.com/PeterZabila/portfolio",
+        demo: "https://peterzabila.github.io/portfolio/"
     },
     {
         id: 5,
         image: IMG5,
-        title: "Title",
-        github: "https://github.com",
-        demo: "https://github.com"
-    },
-    {
-        id: 6,
-        image: IMG6,
         title: "Title",
         github: "https://github.com",
         demo: "https://github.com"
