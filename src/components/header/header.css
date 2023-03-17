@@ -34,6 +34,15 @@ header {
     background: var(--color-primary);
 }
 
+.scroll__down {
+    position: absolute;
+    right: -2.3rem;
+    bottom: 5rem;
+    transform: rotate(90deg);
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
@@ -46,14 +55,6 @@ header {
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
-.scroll__down {
-    position: absolute;
-    right: -2.3rem;
-    bottom: 5rem;
-    transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 0.9rem;
-}
 
 @media screen and (max-width: 1024px) {
     header {
@@ -66,7 +67,8 @@ header {
         height: 100vh;
     }
 
-    .header__socials, .scroll__down {
+    .header__socials, 
+    .scroll__down {
         display: none;
     }
 }
