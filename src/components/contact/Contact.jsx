@@ -2,7 +2,7 @@ import React from 'react';
 import "./contact.css";
 import {MdOutlineEmail} from "react-icons/md";
 import {RiMessengerLine} from "react-icons/ri";
-import {BsWhatsapp} from "react-icons/bs";
+import {TbBrandTelegram} from "react-icons/tb";
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
@@ -40,9 +40,9 @@ const Contact = () => {
           </article>
 
           <article className='contact__option'>
-            <BsWhatsapp className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <a href="https://api.whatsapp.com/send?phone+380631353552" target="_blank" rel="noreferrer">Me on WhatsApp</a>
+            <TbBrandTelegram className='contact__option-icon'/>
+            <h4>Telegram</h4>
+            <a href="https://petrozabila.t.me" target="_blank" rel="noreferrer">Write me on Telegram</a>
           </article>
         </div>
         <div className="contact__options">

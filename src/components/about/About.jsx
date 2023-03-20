@@ -39,7 +39,9 @@ const About =() => {
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt totam illum cumque perspiciatis enim, repudiandae quaerat molestiae modi vero dolorem voluptatum. Accusamus odit eum odio beatae minus magni nam aperiam!
+                        I am a Junior Frontend developer looking for a full-time position in a company aimed at contributing to making both everyday life and business easier, more efficient, productive and user-friendly.
+                        I have reasonable knowledge of HTML, CSS, JavaScript ad REACT a well as practical experience in keeping my workflow in accordance with Agile/SCRUM methodology while working in a team. 
+                        Have project experience in creating backend applications using Node.js.
                     </p>
                     <a href="#contact" className="btn btn__primary">Let's talk</a>
                 </div>
